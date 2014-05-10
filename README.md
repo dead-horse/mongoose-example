@@ -19,6 +19,15 @@ a mongoose example project
 2. 绑定一个文档结构：`models/record.js`，在 `app.js` 中有引用
 3. 然后根据这个结构可以增加、修改、删除、查询文档， `app.js` 中使用
 
+## 运行
+
+```
+git clone git@github.com:dead-horse/mongoose-example.git
+cd mongoose-example
+npm install
+node app.js
+```
+
 ## 访问
 
 ```
