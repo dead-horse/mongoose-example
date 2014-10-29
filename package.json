@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-example",
+  "version": "1.0.0",
+  "description": "mongoose example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dead-horse/mongoose-example.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dead-horse/mongoose-example/issues"
+  },
+  "homepage": "https://github.com/dead-horse/mongoose-example",
+  "dependencies": {
+    "express": "~4.10.1",
+    "mongoose": "~3.8.18"
+  }
+}
